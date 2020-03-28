@@ -34,31 +34,38 @@ a. https://datahub.io/rufuspollock/oscars-nominees-and-winners#resource-data
    * Years: 1927- 2017
    * Variables: Year, Category, Winner, Entity (Recipient)
    * Source: Oscars website
+
 b. https://cs.uwaterloo.ca/~s255khan/oscars.html and https://github.com/titubeta/oscars 
    * Years: 1927 - 2015
    * Variables: Year, Rating, Name, Movie, #Nominations, Duration, Genre1, Genre2, Metacritic Rating, Synopsis (not useful), 
 The best actresses nominations have lots of NAs. Three main categories: Best Actor, Best Actress, Best director, and Best Motion Picture. Variables are all the same. 
    * Source: Shehroz Khan, IMDB, and Oscars website
+
 c. https://www.aggdata.com/awards/oscar 
    * Years: 1927-2010
    * Variables: Year, Category (as in award category), Nominee, Additional Info, Won? 
    * Source: Oscars website
+
 d. http://awardsdatabase.oscars.org/ 
    * Years: 1927-2019
    * Variables: Year, Film Title, Nominee, Award Category
    * Source: Original Oscars Database
+
 e. http://aaspeechesdb.oscars.org/ 
    * Years: 1927-2019
    * Variables: Year, Film Title, Nominee, Award Category
    * Source: Original Oscars Database
+
 f. https://www.kaggle.com/danielgrijalvas/movies
    * Years: 1986-2016
    * Variables: Budget, Company, Country, Director, Genre, Gross Revenue, Name, Rating, Released, Score, Star, Votes, Writer, Year, Award
    * Source: IMDB
+
 g. https://data.world/crowdflower/academy-awards-demographics
    * Years: 1927-2014
    * Variables: Year, Golden (if they won or not), Birthplace, Date of Birth, Ethnicity, Race, Religion, Sexual Orientation, Movie, Person
    * Source: Justin Tenuto, Silk.co (no longer exists!) 
+
 h. http://www.awardsandshows.com/features/awards-categories-1.html
    * Years: 1991-2009
    * Variables: Year, Winner, Film (broken down by each award category)
