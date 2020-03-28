@@ -1,5 +1,3 @@
-# 320group7.github.io
-Data Science Project
 # STOR 320 PROJECT PROPOSAL
  GROUP 7: Celia Collias (Captain), Liam Laughner (Engineer), Ashka Shah (Doctor), & Naixuan/Lauren Wang (Emissary)
 
